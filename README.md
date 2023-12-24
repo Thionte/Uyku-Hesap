@@ -10,8 +10,8 @@
 
 # :notebook_with_decorative_cover: İçerik Tablosu
 
-- [Proje Hakkında](#star2-about-the-project)
-- [İletişim](#handshake-contact)
+- [Proje Hakkında](#star2-proje-hakkında)
+- [İletişim](#handshake-iletişim)
 
 
 ## :star2: Proje Hakkında
